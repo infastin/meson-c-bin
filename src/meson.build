@@ -1,5 +1,4 @@
 src_files = [
-  'main.c',
 ]
 
 header_files = [
